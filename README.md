@@ -21,7 +21,7 @@ The project itself is the project requested from me for college. You can take it
 **If the code will be used publicly, shared publicly at any point. You are required to attach the copyright notice.**
 
 ## Translations:
-I'm not going to translate all the comments and/or other things called in polish language. If you are willing to translate, submit a pull request.
+I'm not going to translate all the comments and/or other things called in polish language, since it's just a college project for someone else. If you are willing to translate, submit a pull request.
 
 ## Anything else:
 For anything else, submit an issue. I might fix anything that is done wrong. If you want to fix it yourself, submit a pull request.
