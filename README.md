@@ -1,4 +1,5 @@
 # pajlau
+**Chcesz coś poprawić? Ulepszyć? Zrób to! Zaakceptuję twój pull request zaraz po analizie kodu!**
 
 ## Usunąć wszystko poza poniższym
 
