@@ -16,3 +16,6 @@
 
 ## Important legal note for everyone who came there:
 The project itself is the project requested from me for college. You can take it, modify it, and use it for your own college project if you want. I don't really care about rights and credits, but if your teacher/professor doesn't care you can credit me as the original author/idea giver. Thanks!
+
+## Couple exceptions:
+**If the code will be used publicly, shared publicly at any point. You are required to attach the copyright notice.**
