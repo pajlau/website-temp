@@ -77,6 +77,14 @@ td {
   text-align: center;
 }
 
+tr:nth-child(even) {
+  color: #8c8c8c;
+}
+
+tr:nth-child(odd) {
+  color: #a6a6a6;
+}
+
 .footer {
   margin-top: 10px;
   width: 500px;
