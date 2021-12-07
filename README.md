@@ -1,5 +1,6 @@
 # pajlau
 **Chcesz coś poprawić? Ulepszyć? Zrób to! Zaakceptuję twój pull request zaraz po analizie kodu!**
+Podgląd: [web_preview](https://github.com/pajlau/website-temp/blob/main/README.md#website-preview)
 
 ## Usunąć wszystko poza poniższym
 
