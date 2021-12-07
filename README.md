@@ -18,7 +18,7 @@
 The project itself is the project requested from me for college. You can take it, modify it, and use it for your own college project if you want. I don't really care about rights and credits, but if your teacher/professor doesn't care you can credit me as the original author/idea giver. Thanks!
 
 ## Couple exceptions:
-**If the code will be used publicly, shared publicly at any point. You are required to attach the copyright notice.**
+**If the code will be used publicly, shared publicly at any point. You are required to attach the copyright notice as stated in the MIT License.**
 
 ## Translations:
 I'm not going to translate all the comments and/or other things called in polish language, since it's just a college project for someone else. If you are willing to translate, submit a pull request.
