@@ -10,5 +10,7 @@
 ## Jak pobrać:
 - Zrób tak jak pokazano poniżej.
 
+![download](https://user-images.githubusercontent.com/59770398/145062260-bc2ad0b8-5ab0-4da8-b7ac-75cf2af5eea4.gif)
+
 ## Important legal note for everyone who came there:
 The project itself is the project requested from me for college. You can take it, modify it, and use it for your own college project if you want. I don't really care about rights and credits, but if your teacher/professor doesn't care you can credit me as the original author/idea giver. Thanks!
