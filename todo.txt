@@ -1,0 +1,13 @@
+To do:
+
+Zgodna z HTML5
+kolor tla w selektorze body
+znaczniki blokowe i liniowe, czcionki kolory tlo obramowanie marginesy dopelnienie itd
+styl dla jednego selektora prostego
+dwa znaczniki sformatowane za pomocą klasy np <p>
+jeden znacznik sformatowany za pomocą identyfikatora np <p>
+dwa obrazki sformatowane za pomocą CSS, wymiary obramowanie itd
+dwa odsyłacze do innych stron internetowych
+jeden znak specjalny (encja)
+tabela zbudowana w oparciu o poznane znaczniki sformatowaną za pomocą CSS
+lista wypunktowana lub numerowana sformatowana za pomocą css
