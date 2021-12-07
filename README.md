@@ -5,5 +5,10 @@
 ## Do zmiany:
 - index.html na nazwisko_imie.html
 
+![change](https://user-images.githubusercontent.com/59770398/145061700-472c400b-5464-4da5-92d5-4605a14e16b2.gif)
+
+## Jak pobrać:
+- Zrób tak jak pokazano poniżej.
+
 ## Important legal note for everyone who came there:
 The project itself is the project requested from me for college. You can take it, modify it, and use it for your own college project if you want. I don't really care about rights and credits, but if your teacher/professor doesn't care you can credit me as the original author/idea giver. Thanks!
