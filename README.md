@@ -26,3 +26,7 @@ I'm not going to translate all the comments and/or other things called in polish
 
 ## Anything else:
 For anything else, submit an issue. I might fix anything that is done wrong. If you want to fix it yourself, submit a pull request.
+
+## Website preview:
+
+![page_preview_2021-12-07_180807](https://user-images.githubusercontent.com/59770398/145074392-f36b090d-503d-45ce-a2d2-53b8da758d3c.png)
